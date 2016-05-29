@@ -28,6 +28,10 @@
 *.tlog/
 *.pdb
 
+# OS-X build files:
+*.o
+*.dylib
+
 # CMake-generated files:
 CMakeFiles/
 CTestTestFile.cmake
